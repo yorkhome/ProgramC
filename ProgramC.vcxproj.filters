@@ -24,5 +24,20 @@
     <ClCompile Include="class4-4.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="class4-5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class5-3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class5-4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class5-5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class5-6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

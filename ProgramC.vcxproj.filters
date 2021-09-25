@@ -39,5 +39,17 @@
     <ClCompile Include="class5-6.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="class5-8.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class5-9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class5-10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class5-11.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

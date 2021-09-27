@@ -51,5 +51,11 @@
     <ClCompile Include="class5-11.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="class5-12.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class5-16.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

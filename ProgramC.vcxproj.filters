@@ -60,5 +60,8 @@
     <ClCompile Include="class6-1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="class6-2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -13,55 +13,64 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\class5">
+      <UniqueIdentifier>{68631d45-394a-44ac-90d0-73552a1310b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\class6">
+      <UniqueIdentifier>{49d144d7-a348-4a43-ab4c-35aa084927c3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="class3-1.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class3-6.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class4-4.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class4-5.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-3.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-4.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-5.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-6.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-8.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-9.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-10.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-11.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-12.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class5-16.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="class6-1.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class5</Filter>
     </ClCompile>
     <ClCompile Include="class6-2.c">
-      <Filter>源文件</Filter>
+      <Filter>源文件\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="class6-1.c">
+      <Filter>源文件\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="class6-3.c">
+      <Filter>源文件\class6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

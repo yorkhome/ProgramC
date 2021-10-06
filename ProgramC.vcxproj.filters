@@ -75,5 +75,8 @@
     <ClCompile Include="class6-4.c">
       <Filter>源文件\class6</Filter>
     </ClCompile>
+    <ClCompile Include="class6-5.c">
+      <Filter>源文件\class6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

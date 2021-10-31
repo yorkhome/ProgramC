@@ -160,6 +160,11 @@
     <ClCompile Include="class6-4.c" />
     <ClCompile Include="class6-5.c" />
     <ClCompile Include="class6-6.c" />
+    <ClCompile Include="class8-1.c" />
+    <ClCompile Include="class8-2.c" />
+    <ClCompile Include="class8-6.c" />
+    <ClCompile Include="class8-7.c" />
+    <ClCompile Include="class8-8.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

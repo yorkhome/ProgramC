@@ -161,6 +161,7 @@
     <ClCompile Include="class6-5.c" />
     <ClCompile Include="class6-6.c" />
     <ClCompile Include="class8-1.c" />
+    <ClCompile Include="class8-14.c" />
     <ClCompile Include="class8-2.c" />
     <ClCompile Include="class8-6.c" />
     <ClCompile Include="class8-7.c" />

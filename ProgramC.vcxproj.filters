@@ -105,5 +105,23 @@
     <ClCompile Include="class8-14.c">
       <Filter>源文件\class8</Filter>
     </ClCompile>
+    <ClCompile Include="class8-17.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class8-18.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class8-19.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class9-2.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class9-1.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class9-3.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

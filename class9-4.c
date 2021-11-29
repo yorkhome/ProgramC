@@ -12,18 +12,22 @@ struct Student//定义结构体
 }stu[N];
 int main() {
 	void prints(struct Student stu[6]);
-	for (int i = 0; i < N; i++) {//输入数据
-		printf("请输入第%d个学生数据：",i+1);
+	void inputs();
+	inputs();
+	prints(stu);
+}
+void inputs() {//输入数据
+	for (int i = 0; i < N; i++) {
+		printf("请输入第%d个学生数据：", i + 1);
 		printf("NO.:");
 		scanf("%s", stu[i].num);
 		printf("name:");
 		scanf("%s", stu[i].name);
 		for (int j = 0; j < 3; j++) {
-			printf("分数%d:",j+1);
+			printf("分数%d:", j + 1);
 			scanf("%d", &stu[i].score[j]);
 		}
 	}
-	prints(stu);
 }
 
 void prints(struct Student stu[6]) {//输出数据

@@ -123,5 +123,14 @@
     <ClCompile Include="class9-3.c">
       <Filter>源文件\class8</Filter>
     </ClCompile>
+    <ClCompile Include="class9-4.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class9-5.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class9-6.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

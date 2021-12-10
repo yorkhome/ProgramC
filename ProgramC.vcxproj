@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2015-1.c" />
     <ClCompile Include="class8-18.c" />
     <ClCompile Include="class3-1.c" />
     <ClCompile Include="class3-6.c" />
@@ -175,6 +176,11 @@
     <ClCompile Include="class9-4.c" />
     <ClCompile Include="class9-5.c" />
     <ClCompile Include="class9-6.c" />
+    <ClCompile Include="class9-7.c" />
+    <ClCompile Include="class9-8.c" />
+    <ClCompile Include="class9-9.c" />
+    <ClCompile Include="method.c" />
+    <ClCompile Include="method1.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

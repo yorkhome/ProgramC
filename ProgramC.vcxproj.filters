@@ -22,6 +22,9 @@
     <Filter Include="源文件\class8">
       <UniqueIdentifier>{8e4597ed-8522-401a-9bba-715af359641d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\test">
+      <UniqueIdentifier>{9e175f93-09a7-45b3-ae63-dd84a13b6ce5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="class3-1.c">
@@ -131,6 +134,24 @@
     </ClCompile>
     <ClCompile Include="class9-6.c">
       <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class9-7.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class9-8.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class9-9.c">
+      <Filter>源文件\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="2015-1.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="method.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="method1.c">
+      <Filter>源文件\test</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

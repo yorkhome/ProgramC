@@ -153,5 +153,14 @@
     <ClCompile Include="method1.c">
       <Filter>源文件\test</Filter>
     </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2016-1.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2017-2.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

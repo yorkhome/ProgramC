@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<string.h>
+/*
 #define N 10
 //输入一行字符，统计其中英文单词的个数，单词之间以空格为间隔
 int main() {
@@ -21,3 +22,4 @@ int main() {
 	}
 	printf("sum=%d", sum);
 }
+*/

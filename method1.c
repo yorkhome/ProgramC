@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*
 typedef struct Node {
     int data;
     struct Node* next;
@@ -153,3 +153,5 @@ int insertNodeFront(LNode* head, int num, LNode* p) {
     }
     return 0;
 }
+
+*/

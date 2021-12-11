@@ -1,6 +1,6 @@
 #include "stdio.h"
 #include "stdlib.h"
-
+/*
 // 定义链表的节点
 struct Node {
     int data;
@@ -117,3 +117,4 @@ int main() {
     print();
     return 0;
 }
+*/

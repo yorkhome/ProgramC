@@ -141,7 +141,13 @@
   <ItemGroup>
     <ClCompile Include="2015-1.c" />
     <ClCompile Include="2016-1.c" />
+    <ClCompile Include="2016-2.c" />
+    <ClCompile Include="2016-3.c" />
+    <ClCompile Include="2017-1.c" />
     <ClCompile Include="2017-2.c" />
+    <ClCompile Include="2017-3.c" />
+    <ClCompile Include="2018-1.c" />
+    <ClCompile Include="2019-1.c" />
     <ClCompile Include="class8-18.c" />
     <ClCompile Include="class3-1.c" />
     <ClCompile Include="class3-6.c" />

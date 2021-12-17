@@ -1,24 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
+//2017年第二题
 /*
 int main() {
-	char string[10];
-	int letter=0, space=0, number=0, others=0;
-	printf("请输入字符串：");
-	gets(string);
-	for (int i = 0; string[i]!='\0'; i++) {
-		if (string[i] >= '0' && string[i] <= '9') {
-			number++;
-		}
-		else if (string[i] >= 'a' && string[i] <= 'z'|| string[i] >= 'A' && string[i] <= 'Z') {
-			letter++;
-		}
-		else if (string[i] ==' ') {
-			space++;
-		}
-		else
-			others++;
+	for (int i = 0; i < 7; i++) {
+		for (int j = 0; j < i; j++) printf(" ");
+		for (int j = 0; j < 7; j++) printf("*");
+		printf("\n");
 	}
-	printf("字母：%d，数字：%d,空格：%d,其他：%d.", letter, number, space, others);
 }
 */

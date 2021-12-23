@@ -147,7 +147,12 @@
     <ClCompile Include="2017-2.c" />
     <ClCompile Include="2017-3.c" />
     <ClCompile Include="2018-1.c" />
+    <ClCompile Include="2018-2.c" />
+    <ClCompile Include="2018-3.c" />
+    <ClCompile Include="2015-3.c" />
     <ClCompile Include="2019-1.c" />
+    <ClCompile Include="2019-2.c" />
+    <ClCompile Include="2019-3.c" />
     <ClCompile Include="class8-18.c" />
     <ClCompile Include="class3-1.c" />
     <ClCompile Include="class3-6.c" />
@@ -187,6 +192,7 @@
     <ClCompile Include="class9-7.c" />
     <ClCompile Include="class9-8.c" />
     <ClCompile Include="class9-9.c" />
+    <ClCompile Include="link.c" />
     <ClCompile Include="method.c" />
     <ClCompile Include="method1.c" />
     <ClCompile Include="test.c" />

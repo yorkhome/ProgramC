@@ -162,9 +162,6 @@
     <ClCompile Include="2018-1.c">
       <Filter>源文件\test</Filter>
     </ClCompile>
-    <ClCompile Include="2019-1.c">
-      <Filter>源文件\test</Filter>
-    </ClCompile>
     <ClCompile Include="2016-2.c">
       <Filter>源文件\test</Filter>
     </ClCompile>
@@ -178,6 +175,27 @@
       <Filter>源文件\test</Filter>
     </ClCompile>
     <ClCompile Include="2017-3.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2018-2.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2018-3.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2015-3.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2019-1.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2019-2.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2019-3.c">
+      <Filter>源文件\test</Filter>
+    </ClCompile>
+    <ClCompile Include="link.c">
       <Filter>源文件\test</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,27 +1,34 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-//
 /*
+#define N 4
+#define M 4
+//
+
 int main() {
-	FILE* fp;
-	char ch,filename[10];
-	printf("请输入文件名：");
-	//gets(filename);
-	scanf("%s", filename);
-	getchar();
-	if ((fp = fopen(filename,"w")) == NULL) {
-		printf("打不开");
-		exit(0);
+	int fun(int(*p)[N]);
+	int a[M][N];
+	printf("请输入：\n");
+	for (int i = 0; i < M; i++) {
+		for (int j = 0; j < N; j++) {
+			printf("请输入a[%d][%d]:",i,j);
+			scanf("%d", &a[i][j]);
+		}
 	}
-	printf("请输入字符串以#号结束：");
-	ch = getchar();
-	while (ch != '#') {
-		fputc(ch, fp);
-		putchar(ch);
-		ch = getchar();
+	fun(a);
+}
+int fun(int (*p)[N]) {
+	int sum = 0;
+	for (int i = 0; i < M; i++) {
+		for (int j = 0; j < N; j++) {
+			if (i==0 || i == M - 1 || j == 0 || j == N - 1) {
+				sum += p[i][j];
+				//continue;
+			}
+		}
 	}
-	fclose(fp);
-	putchar(10);
-	return 0;
+	
+	printf("sum=%d", sum);
+	return sum;
 }
 */
